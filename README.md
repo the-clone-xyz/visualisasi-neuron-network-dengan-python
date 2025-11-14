@@ -10,8 +10,7 @@ Visualisasi ini dirancang agar mudah dipahami, menunjukkan bagaimana data masuk 
 
 Berikut adalah tangkapan layar dari salah satu fase animasi, menunjukkan aliran aktivasi dari Hidden Layer ke Output Layer.
 
-![Contoh Animasi Jaringan Saraf Tiruan](screenshot-animasi.png)
-_(Catatan: Ganti `screenshot-animasi.png` dengan nama file screenshot Anda)_
+![Contoh Animasi Jaringan Saraf Tiruan](assets/image.png)
 
 ---
 
@@ -32,8 +31,8 @@ Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berik
 1.  **Clone Repositori**
 
     ```bash
-    git clone [https://github.com/USERNAME_ANDA/NAMA_REPOSITORI_ANDA.git](https://github.com/USERNAME_ANDA/NAMA_REPOSITORI_ANDA.git)
-    cd NAMA_REPOSITORI_ANDA
+    git clone [https://github.com/the-clone-xyz/visualisasi-neuron-network-dengan-python.git](https://github.com/the-clone-xyz/visualisasi-neuron-network-dengan-python.git)
+    cd visualisasi-neuron-network-dengan-python
     ```
 
 2.  **Buat File `requirements.txt`**
@@ -58,5 +57,5 @@ Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berik
 Setelah instalasi selesai, jalankan skrip Python utama dari terminal:
 
 ```bash
-python nama_file_skrip_anda.py
+python main.py
 ```
