@@ -31,7 +31,7 @@ Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berik
 1.  **Clone Repositori**
 
     ```bash
-    git clone [https://github.com/the-clone-xyz/visualisasi-neuron-network-dengan-python.git]
+    git clone https://github.com/the-clone-xyz/visualisasi-neuron-network-dengan-python.git
     cd visualisasi-neuron-network-dengan-python
     ```
 
